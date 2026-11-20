@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Subway Surfers 3D: Character Library & Motion Capture</h1>
-</p>
+<h1 align="center">Subway Surfers 3D: Character Library & Motion Capture</h1>
 
 <p align="center">
   <img alt="Blender 5.2+" src="https://img.shields.io/badge/Blender-5.2%2B-F5792A?logo=blender&logoColor=white">
@@ -32,10 +30,10 @@
 
 ## Highlights
 
-| | | |
-|:---:|:---:|:---:|
-| **53 Characters**<br/>Ready-to-open `.blend` files for Jake, Tricky, Fresh, Yutani, Spike, and more | **Subway Environment**<br/>Train wagons, city buildings, and station pillars as `.blend` assets | **Video-to-3D Mocap**<br/>MediaPipe Holistic 3D body & hand tracking retargeted to Blender rigs |
-| **Wiggle 2 Physics**<br/>Secondary bone spring dynamics and mesh-level foot grounding | **Cinematic Camera**<br/>4-part dynamic camera synced to the original dance rhythm | **Clean Pipeline**<br/>Reproducible Python & Blender scripts with APKs excluded via `.gitignore` |
+|                                                                                                     |                                                                                                 |                                                                                                  |
+| :-------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+| **53 Characters**<br/>Ready-to-open `.blend` files for Jake, Tricky, Fresh, Yutani, Spike, and more | **Subway Environment**<br/>Train wagons, city buildings, and station pillars as `.blend` assets | **Video-to-3D Mocap**<br/>MediaPipe Holistic 3D body & hand tracking retargeted to Blender rigs  |
+|        **Wiggle 2 Physics**<br/>Secondary bone spring dynamics and mesh-level foot grounding        |       **Cinematic Camera**<br/>4-part dynamic camera synced to the original dance rhythm        | **Clean Pipeline**<br/>Reproducible Python & Blender scripts with APKs excluded via `.gitignore` |
 
 ---
 
