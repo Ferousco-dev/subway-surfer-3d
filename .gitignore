@@ -1,0 +1,22 @@
+# APKs & raw binary/extracted dumps
+apks/
+*.apk
+*.xapk
+*.aab
+*.so
+*.dat
+
+# Raw decompilation & AssetRipper intermediate exports
+decompiled/
+extracted/
+hello/
+second/
+tools/
+clean-code/
+
+# Blender backups & temp files
+*.blend1
+*.blend2
+__pycache__/
+*.pyc
+.DS_Store
