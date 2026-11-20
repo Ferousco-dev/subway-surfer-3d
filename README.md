@@ -2,6 +2,18 @@
 
 An educational reverse-engineering, 3D asset extraction, and Blender motion-capture project exploring **Subway Surfers** (`com.kiloo.subwaysurf` v3.71.11).
 
+## Preview
+
+<p align="center">
+  <a href="subway_trio_dance.mp4">
+    <img src="preview.gif" alt="Subway Surfers Trio Dance Preview" width="640">
+  </a>
+</p>
+
+<p align="center">
+  <a href="subway_trio_dance.mp4"><b>Watch full HD video with audio (subway_trio_dance.mp4)</b></a>
+</p>
+
 Includes:
 - **53 Subway Surfers characters** converted into clean, ready-to-open `.blend` files (`blender/characters/`)
 - **Subway Surfers environment & train assets** as `.blend` files (`blender/environment/`)
