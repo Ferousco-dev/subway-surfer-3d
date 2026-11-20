@@ -1,0 +1,25 @@
+Educational & Non-Commercial Use Only License
+
+Copyright (c) 2026 Ferousco-dev
+
+1. Original Scripts & Pipeline Code
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+the original Python and Blender scripts in this repository (under `scripts/`),
+to use, study, modify, and share them solely for educational, academic, and
+non-commercial research purposes, provided that this notice is preserved.
+
+Commercial use, resale, or redistribution for profit is strictly prohibited.
+
+2. Third-Party Game Assets & Trademarks
+All Subway Surfers character models, 3D meshes, textures, animations, and
+environment assets included or referenced in this repository are the sole
+intellectual property of SYBO Games ApS and Kiloo. No ownership or license over
+those assets is claimed or granted by this repository. They are included solely
+for educational study, technical reverse-engineering research, and personal
+learning. If you are a rights holder and wish for any material to be removed,
+please open an issue or contact the repository owner.
+
+3. Disclaimer
+THE SOFTWARE AND FILES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.

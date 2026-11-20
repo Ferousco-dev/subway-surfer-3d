@@ -91,3 +91,9 @@ flowchart LR
 - **Wiggle 2:** [shteeve3d/blender-wiggle-2](https://github.com/shteeve3d/blender-wiggle-2) by Steve Miller (secondary bone spring physics)
 - **REA (Reverse Engineer Anything):** IL2CPP metadata and Android resource analysis
 - **UnityPy, JADX, Apktool, and FFmpeg**
+
+---
+
+## License
+
+This project is released for **educational and non-commercial research purposes only**. See [LICENSE](LICENSE) for full details. All Subway Surfers characters, models, and environment assets remain the property of **SYBO Games ApS** and **Kiloo**.
